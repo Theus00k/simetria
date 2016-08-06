@@ -1,2 +1,2 @@
-# simetria
-Desenvolvimento do site da micro empresa
+# Website Simetria Tecnologia
+Desenvolvimento web 
